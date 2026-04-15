@@ -36,7 +36,7 @@ RankJourney% of Sessions1Log in only22.7%2Checkout only17.8%3Other only10.2%4Cou
 
 🛠️ How to Run
 1. Clone the repository
-bashgit clone https://github.com/your-username/user-journey-funnel-analysis.git
+bashgit clone https://github.com/VECTORZ24/User-Journey-Funneal-Analysis.git
 cd user-journey-funnel-analysis
 2. Install dependencies
 bashpip install pandas plotly reportlab
